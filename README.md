@@ -5,5 +5,6 @@
 3. Upload datasets in Environment 
 4. Data preprocessing Training Dataset using Recipes (Data Manager) -> think of interesting features
 6. Model Creation + Deployment
-7. Scoring Test Dataset using Recipes
-8. Visualizing outcomes by creating Dashboard
+7. Evaluate quality of the model using Model Metrics
+8. Scoring Test Dataset using Recipes
+9. Visualizing outcomes by creating Dashboard

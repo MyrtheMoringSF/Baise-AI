@@ -6,4 +6,4 @@
 4. Data preprocessing Training Dataset using Recipes (Data Manager)
 5. Model Creation + Deployment
 6. Scoring Test Dataset using Recipes
-7. Visualizing outcomes
+7. Visualizing outcomes by creating Dashboard
